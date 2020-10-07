@@ -1,0 +1,14 @@
+# MS Office
+*.docx  filter=rezip
+*.xlsx  filter=rezip
+*.pptx  filter=rezip
+# OpenOffice
+*.odt   filter=rezip
+*.ods   filter=rezip
+*.odp   filter=rezip
+# Misc
+*.mcdx  filter=rezip
+*.slx   filter=rezip
+# ePub
+*.epub  filter=rezip
+
